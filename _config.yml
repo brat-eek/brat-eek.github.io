@@ -30,7 +30,7 @@ baseurl: ""
 navbar-links:
   Recommends: "books"
   Categories:
-    - Heavy Electric: ""
+    - Heavy Electric: "electrics"
     - Stadium Lights: "lights"
     - Residential Lights: "https://www.researchgate.net/profile/Anudit_Verma"
   Franchise:
@@ -224,3 +224,5 @@ metadata:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+include: ["_pages"]
