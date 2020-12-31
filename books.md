@@ -14,9 +14,9 @@ title: Anudit Verma - My Book Recommendations
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
-					<h3 class="product__title">The Alchemist</h3>
-					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<p class="product__title">L&T Heavy Lightings</p>
+					<p class="product__author highlight">L&T lights 300 wattage rs 2k/- only</p>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=l&t+electric+lights+reviews')"><i class="fa fa-comments"></i><span class="action__text">Info</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -168,3 +168,5 @@ title: Anudit Verma - My Book Recommendations
 			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/anuditverma"><img src="goodreads_logo.png" alt="goodreads" /></a></h3>
 		</center>
 	</div>
+</div>
+</div>

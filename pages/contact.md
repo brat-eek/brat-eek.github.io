@@ -5,23 +5,18 @@ subtitle: Just a phone call, email or friend request away!
 ---
 
 <div style="text-align: center;">
-For any requests/inquiries, please email [akshayjain2507@gmail.com](mailto:akshayjain2507@gmail.com?subject=Inquiry)
-<br>
 <a href="https://calendly.com/csscpvtltd2020/meeting" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>
   <h1>SCHEDULE MEETING</h1>
 </a>
   <br>
-  <br>
   <p>Locate Us at the below address</p>
   <br>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.8924169029156!2d78.49019611425561!3d17.46486258803222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9a65df6fd3b5%3A0x3d69e2667be8c112!2sDiamond%20Point%20Rd%2C%20Kiran%20Enclave%2C%20Bowenpally%2C%20Secunderabad%2C%20Telangana%20500009!5e0!3m2!1sen!2sin!4v1609401675890!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
 </div>
 
-
-
-
+<center>
+For any requests/inquiries, please email [akshayjain2507@gmail.com](mailto:akshayjain2507@gmail.com?subject=Inquiry)
 
 You can also send a message using the form below:
 
@@ -43,3 +38,4 @@ You can also send a message using the form below:
   
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
+</center>
