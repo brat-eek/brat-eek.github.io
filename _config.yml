@@ -30,8 +30,8 @@ baseurl: ""
 navbar-links:
   Recommends: "books"
   Categories:
-    - Heavy Electric: "electrics"
-    - Stadium Lights: "lights"
+    - Heavy Electric: ""
+    - Stadium Lights: "pages/lights"
     - Residential Lights: "https://www.researchgate.net/profile/Anudit_Verma"
   Franchise:
     - L&T: "https://github.com/anuditverma/org.civicrm.osdi"
@@ -40,7 +40,7 @@ navbar-links:
   Rate Card:
     - Dec 2020: "resume/Anudit_Verma.pdf"
     - Jul 2020: "resume/Anudit_Verma.pdf"
-  About Me: "aboutme"
+  About Me: "pages/aboutme"
   Contact: "contact"
 #  Tags: "tags"
 
@@ -224,5 +224,3 @@ metadata:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-include: ["_pages"]

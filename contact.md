@@ -5,12 +5,13 @@ subtitle: Just a phone call, email or friend request away!
 ---
 
 <div style="text-align: center;">
+For any requests/inquiries, please email [akshayjain2507@gmail.com](mailto:akshayjain2507@gmail.com?subject=Inquiry)
+<br>
 <a href="https://calendly.com/csscpvtltd2020/meeting" class="schedule-btn actionbtn">
   <span class="far fa-calendar-check" aria-hidden="true"></span>
   <h1>SCHEDULE MEETING</h1>
 </a>
   <br>
-  For any requests/inquiries, please email [akshayjain2507@gmail.com](mailto:akshayjain2507@gmail.com?subject=Inquiry)
   <br>
   <p>Locate Us at the below address</p>
   <br>
