@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Anudit Verma - My Book Recommendations
+title: ABC XYZ 
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -16,7 +16,7 @@ title: Anudit Verma - My Book Recommendations
 					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
 					<p class="product__title">L&T Heavy Lightings</p>
 					<p class="product__author highlight">L&T lights 300 wattage rs 2k/- only</p>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=l&t+electric+lights+reviews')"><i class="fa fa-comments"></i><span class="action__text">Info</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=havells+street+light')"><i class="fa fa-comments"></i><span class="action__text">Google IT</span></button>
 				</div>
 			</div>
 			<div class="product">
