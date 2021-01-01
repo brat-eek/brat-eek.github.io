@@ -1,50 +1,62 @@
 ---
 layout: page
-title: About me
-subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
+title: Lights
+subtitle: "Lights"
 ---
 
-<div id="aboutme-section">
+Hi, my name is **Prateek Singhi** and I am from [India](https://goo.gl/maps/cGB1ipUz9YF2){:target="_blank"}. People usually don't refer to me by my name. You can either call me **singhi** or give me a suitable name once you get to know me. You will realise, I am more responsive to those. <i class="em em-smile"></i>. 
 
-<p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-  Hi, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer living in Long Beach, California, US.
-</p>
+### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
+I'm very interested in **Machine Learning**, **Linux**, **Automation**, **Computer Vision**, **DIP** and **State of the Art Algos**.
 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science & Engineering from University School of Information, Communication & Technology in New Delhi, India. I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University Long Beach.
-</p>
+I love exploring [Github](https://github.com/){:target="_blank"}, [Stackoverflow](https://stackoverflow.com/){:target="_blank"}, [Medium](https://medium.com){:target="_blank"}, [TowardsDataScience](https://towardsdatascience.com/){:target="_blank"} and sometimes [Kaggle](https://kaggle.com){:target="_blank"} too.<br/>
 
-<p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
-</p>
+I love to travel and the cherry on the cake is when I do so with a bunch of crazy souls. Want to explore the world in its entirety and my dream location is [Bora Bora](https://www.google.com/maps/place/Bora+Bora/@-16.5044211,-151.7736687,13z/data=!3m1!4b1!4m5!3m4!1s0x76bdbd188a4a98ab:0x160a089e92d5ce61!8m2!3d-16.5004126!4d-151.7414904){:target="_blank"}. 
 
-<p class="about-text">
-<span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/year_in_books/2018/82771249">here</a>. Make sure to add some of them in your future reading list.
-</p>
+I am a curious person and cannot be at peace unless I figure things inside out! Its a huge source of joy for me. I can be a very entertaining person in a bunch of ways and people who know me will understand that better.  
 
-<p class="about-text">
-<span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music and occasional cooking. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.
-</p>
+### <i class="fa fa-cubes" aria-hidden="true"></i> Skills 
+*Here comes a list of subjects I've worked with, grouped by topics...* 
+*But before that the more important skills I have been blessed with naturally........*
 
-<p class="about-text">
-<span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab something awesome in the world of open-source tech. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
-</p>
+#### <i class="fa fa-gear" aria-hidden="true"></i> Humour and Chivalry
+#### <i class="fa fa-gear" aria-hidden="true"></i> Philosophy and Deep 'Gyaan'
+#### <i class="fa fa-gear" aria-hidden="true"></i> Yeah I can DANCE!!
+#### <i class="fa fa-gear" aria-hidden="true"></i> And Sing TOO!! 
+#### <i class="fa fa-gear" aria-hidden="true"></i> Oh! I forgot I can sketch and paint tooo.....
+#### <i class="fa fa-gear" aria-hidden="true"></i> The last but the best -> Taste in MUSIC!!!!! Yes that's a Skill :P
+
+*The Regular Stuff Now*
+#### <i class="fa fa-gear" aria-hidden="true"></i> Data Science, Machine Learning, AI 
+
+Tensorflow &bull; Pytorch &bull; OpenCV &bull; Scikit &bull; Caffe &bull; Weka
+
+#### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages 
+
+Python &bull; C++ &bull; C &bull; JAVA
+
+#### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems 
+
+Linux &bull; OSX &bull; Microsoft Windows
+
+#### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud Orchestration Amazon Web Services
+
+[AWS](https://aws.amazon.com){:target="_blank"} &bull; [TerraForm](https://www.terraform.io/){:target="_blank"} &bull; [Chef](https://www.chef.io/){:target="_blank"} &bull; [Docker](https://www.docker.com/){:target="_blank"} &bull; [Capistrano](http://capistranorb.com/){:target="_blank"} &bull; [ELK (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/webinars/introduction-elk-stack){:target="_blank"} 
+
+#### <i class="fa fa-gear" aria-hidden="true"></i> General Software 
+
+git &bull; DBs (MySQL, PostgresSQL) &bull; Virtualization (Docker and VMware) 
+
+### <i class="fa fa-briefcase" aria-hidden="true"></i> [Experience] 
 
 
-<center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
-<br>
+#### <i class="fa fa-building-o" aria-hidden="true"></i>[Amazon](https://www.amazon.in/){:target="_blank"} as **Data Scientist** 
+<small> <i class="fa fa-calendar" aria-hidden="true"></i> Jan, 2020 - Present </small> 
 
-Oh, and one more thing, if you are wondering about the meaning of my name, well...
-<br><br>
-<center><img src="/assets/img/anudit-meaning.png" alt="Meaning of name Anudit"></center>
-<br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
+<span class="badge">Routing and Maps Intelligence</span> 
+<span class="badge">Python and Java</span> 
+<span class="badge">A bunch of algorithms...</span> 
+<span class="badge">Git</span> <span class="badge">Cloud</span>
+
+I joined Amazon in Jan 2020. I work on Last Mile Sciences and Routing Maps Intelligence. The best part is the iced lemon tea and cold coffee in the pantry besides the exciting problems we constantly brainstorm on daily. At Amazon I truly believe you can realise your dreams of making An Impact! 
+
