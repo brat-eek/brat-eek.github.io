@@ -48,7 +48,7 @@
      min-width: 16em;
      margin: 0 1em 2.5em;
      padding: 1.5em 1.5em 2em;
-     background: #24252A;
+     background: #005580;
      border-radius: 5px;
 }
  .product--selected {
@@ -127,7 +127,7 @@
      font-family: 'Lato', Calibri, Arial, sans-serif;
      -webkit-font-smoothing: antialiased;
      font-weight: bold;
-     color: #797BED;
+     color: #f2f2f2;
 }
  .action {
      display: inline-block;
@@ -143,14 +143,14 @@
      outline: none;
 }
  .action--button {
-     background: #2C2D34;
+     background: #005580;
      color: #fff;
      border-radius: 2px;
      -webkit-transition: background 0.2s;
      transition: background 0.2s;
 }
  .action--button:hover {
-     background: #5C5EDC;
+     background: #990000;
 }
  .action__text {
      font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
