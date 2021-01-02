@@ -59,7 +59,7 @@ round-avatar: true
 # for the navigation bar, the main page, and the footer.
 navbar-col: "#005580"
 navbar-text-col: "#ffffff"
-navbar-children-col: "#ffffff"
+navbar-children-col: "#ffff66"
 page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#990000"
