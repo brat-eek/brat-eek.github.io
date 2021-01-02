@@ -165,7 +165,7 @@ title: ABC XYZ
 			</div>			
 		</section>
 		<center>
-			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/anuditverma"><img src="goodreads_logo.png" alt="goodreads" /></a></h3>
+			<h3>Bookworm</h3>
 		</center>
 	</div>
 </div>
