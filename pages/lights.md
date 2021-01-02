@@ -4,8 +4,6 @@ title: Lights
 subtitle: "Lights"
 ---
 
-Hi, my name is **Prateek Singhi** and I am from [India](https://goo.gl/maps/cGB1ipUz9YF2){:target="_blank"}. People usually don't refer to me by my name. You can either call me **singhi** or give me a suitable name once you get to know me. You will realise, I am more responsive to those. <i class="em em-smile"></i>. 
-
 ### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
 I'm very interested in **Machine Learning**, **Linux**, **Automation**, **Computer Vision**, **DIP** and **State of the Art Algos**.
 
@@ -49,14 +47,4 @@ git &bull; DBs (MySQL, PostgresSQL) &bull; Virtualization (Docker and VMware)
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> [Experience] 
 
-
-#### <i class="fa fa-building-o" aria-hidden="true"></i>[Amazon](https://www.amazon.in/){:target="_blank"} as **Data Scientist** 
-<small> <i class="fa fa-calendar" aria-hidden="true"></i> Jan, 2020 - Present </small> 
-
-<span class="badge">Routing and Maps Intelligence</span> 
-<span class="badge">Python and Java</span> 
-<span class="badge">A bunch of algorithms...</span> 
-<span class="badge">Git</span> <span class="badge">Cloud</span>
-
-I joined Amazon in Jan 2020. I work on Last Mile Sciences and Routing Maps Intelligence. The best part is the iced lemon tea and cold coffee in the pantry besides the exciting problems we constantly brainstorm on daily. At Amazon I truly believe you can realise your dreams of making An Impact! 
 
