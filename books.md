@@ -1,6 +1,6 @@
 ---
 layout: books
-title: ABC XYZ 
+title: Venkateshwara Enterprises
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
