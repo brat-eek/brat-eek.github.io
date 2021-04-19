@@ -16,7 +16,7 @@ subtitle: Just a phone call, email or friend request away!
 </div>
 
 For any requests/inquiries, please email [akshayjain2004@gmail.com](mailto:akshayjain2004@gmail.com?subject=Inquiry)
-
+Or Contact On: 7022207522
 You can also send a message using the form below:
 
 <form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">

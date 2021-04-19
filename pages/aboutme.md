@@ -21,12 +21,12 @@ Serving a wide client base that includes Government departments and major compan
 </p>
 
 <p class="about-text">
-<span class="fa fa-graduation-cap"></span>
-LEADERSHIP 
-Late. Shri Gulabchand Lodha , LLB -     ( FOUNDER ) 
-PRAVEEN LODHA , MBA – SYMBIOSIS. ( FOUNDER , CEO ) 
-AKSHAY LODHA , BTECH – MECHNICAL , MANIPAL INSTITUTE OF TECHNOLOGY ( MANAGING PARTNER ) 
-ADITYA LODHA , BBA – CHRIST UNIVERSITY ( MANAGING PARTNER) 
+<span class="fa fa-graduation-cap about-icon"></span>
+<h3>LEADERSHIP</h3> 
+<h4>**Late. Shri Gulabchand Lodha** , LLB-(FOUNDER)</h4>  
+<h4>**PRAVEEN LODHA** , MBA – SYMBIOSIS. (FOUNDER, CEO)</h4>   
+<h4>**AKSHAY LODHA** , BTECH – MECHNICAL , MANIPAL INSTITUTE OF TECHNOLOGY (MANAGING PARTNER)</h4>   
+<h4>**ADITYA LODHA** , BBA – CHRIST UNIVERSITY (MANAGING PARTNER)</h4>
 </p>
 
 <br>
